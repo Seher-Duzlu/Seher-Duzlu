@@ -17,7 +17,7 @@
 ---
 
 ## 🛠 Expertise
-- **Platforms:** Instagram, TikTok, LinkedIn, YouTube  
+- **Platforms:** Instagram, TikTok, LinkedIn, YouTube, Bionluk  
 - **Skills:** Content Planning, Copywriting, Graphic & Video Production, SEO & Hashtag Strategy  
 - **Tools:** Canva, CapCut, Adobe Spark, Notion, Trello, Meta Business Suite, Google Analytics  
 
