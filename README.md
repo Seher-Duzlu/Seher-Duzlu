@@ -1,45 +1,39 @@
-# Hello there, I'm Seher Düzlü 👋
+# Hello there, I'm Furkan Gülşen 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/feed/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://bionluk.com/bugun">
-    <img src="https://img.shields.io/badge/Bionluk-FF6600?style=for-the-badge&logo=freelancer&logoColor=white" alt="Bionluk" />
-  </a>
-  <a href="https://www.tiktok.com/@afaroz00?_t=ZS-8zLVd76lHIV&_r=1">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://youtube.com/@sdanismanlik01?si=O3phom90COSSRAl4">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-g%C3%BCl%C5%9Fen-53413137b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/furkan.gulsen.01/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@furkan.gulsen?lang=tr-TR)
+[![Bionluk](https://img.shields.io/badge/Bionluk-FF6600?style=for-the-badge&logo=freelancer&logoColor=white)](https://bionluk.com/crstyal)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FurkanG%C3%BCl%C5%9FenCodes)
 
 ---
 
-## 👩‍💼 About Me
-- I am a *Social Media Consultant* specializing in *Instagram, TikTok, LinkedIn, and YouTube content strategies*  
-- I create *content calendars, visual designs, reels, and ad campaigns* to boost brand visibility  
-- Experienced consultant with multiple successful collaborations and ⭐⭐⭐⭐⭐ client reviews  
-- Passionate about *helping brands grow, building engagement, and crafting creative storytelling*  
+## 👨‍💻 About Me
+- I am a *Software Engineer* specialized in *C#, .NET, SQL, HTML, CSS, JavaScript, Arduino, and Windows Forms*  
+- I develop *desktop and web applications* with a focus on clean code, usability, and performance  
+- Experienced freelancer with multiple successful projects and ⭐⭐⭐⭐⭐ client reviews  
+- Passionate about *automation, scalable systems, and problem-solving*  
 
 ---
 
-## 🛠 Expertise
-- **Platforms:** Instagram, TikTok, LinkedIn, YouTube  
-- **Skills:** Content Planning, Copywriting, Graphic & Video Production, SEO & Hashtag Strategy  
-- **Tools:** Canva, CapCut, Adobe Spark, Notion, Trello, Meta Business Suite, Google Analytics  
+## 🛠 Tech Stack
+- *Languages:* C#, SQL, HTML, CSS, JavaScript, Arduino  
+- *Frameworks:* .NET, ASP.NET, WinForms  
+- *Databases:* MS SQL Server, MySQL  
+- *Tools:* Git, GitHub, Visual Studio  
 
 ---
 
 ## 🔥 Featured Projects
-- 📈 *Instagram Growth Strategy* – Increased engagement rate of a fashion brand by **120% in 30 days**  
-- 🎬 *Reels Video Series* – Produced 10 short-form videos that tripled view counts for a lifestyle brand  
-- 👥 *LinkedIn B2B Strategy* – Boosted monthly reach by **85%** for a professional services firm  
-- 📊 *Ad Campaign Management* – Designed and optimized Meta Ads for e-commerce growth  
-- 🎨 *Content Calendar & Visual Design* – Built structured content plans with eye-catching graphics  
+- 🛒 *E-Commerce Automation* – Product, order, and payment management system  
+- 🎮 *League of Legends Bot* – Automated gameplay bot using OpenCV  
+- 📸 *Instagram Reels Bot* – Automated/scheduled Reels posting with captions & hashtags  
+- 🎮 *Game Launchers* – Custom launchers to manage and update games easily  
+- 🌱 *Greenhouse Simulation & Automation* – Plant growth, irrigation, and climate control system  
+- 🖥 *Windows Forms Applications* – Multiple desktop tools for various use cases  
+- 📡 *Arduino Projects* – Sensor integration & automation systems  
 
 ---
 
 ## 📊 GitHub Stats
-![Seher's Github stats](https://github-readme-stats.vercel.app/api?username=SeherDuzlu&show_icons=true&theme=radical)
+![Furkan's Github stats](https://github-readme-stats.vercel.app/api?username=FurkanGulsen-Dev&show_icons=true&theme=radical)
