@@ -8,32 +8,29 @@
 
 ---
 
-## 👨‍💻 About Me
-- I am a *Software Engineer* specialized in *C#, .NET, SQL, HTML, CSS, JavaScript, Arduino, and Windows Forms*  
-- I develop *desktop and web applications* with a focus on clean code, usability, and performance  
-- Experienced freelancer with multiple successful projects and ⭐⭐⭐⭐⭐ client reviews  
-- Passionate about *automation, scalable systems, and problem-solving*  
+## 👩‍💼 About Me
+- I am a *Social Media Consultant* specializing in *Instagram, TikTok, LinkedIn, and YouTube content strategies*  
+- I create *content calendars, visual designs, reels, and ad campaigns* to boost brand visibility  
+- Experienced consultant with multiple successful collaborations and ⭐⭐⭐⭐⭐ client reviews  
+- Passionate about *helping brands grow, building engagement, and crafting creative storytelling*  
 
 ---
 
-## 🛠 Tech Stack
-- *Languages:* C#, SQL, HTML, CSS, JavaScript, Arduino  
-- *Frameworks:* .NET, ASP.NET, WinForms  
-- *Databases:* MS SQL Server, MySQL  
-- *Tools:* Git, GitHub, Visual Studio  
+## 🛠 Expertise
+- **Platforms:** Instagram, TikTok, LinkedIn, YouTube  
+- **Skills:** Content Planning, Copywriting, Graphic & Video Production, SEO & Hashtag Strategy  
+- **Tools:** Canva, CapCut, Adobe Spark, Notion, Trello, Meta Business Suite, Google Analytics  
 
 ---
 
 ## 🔥 Featured Projects
-- 🛒 *E-Commerce Automation* – Product, order, and payment management system  
-- 🎮 *League of Legends Bot* – Automated gameplay bot using OpenCV  
-- 📸 *Instagram Reels Bot* – Automated/scheduled Reels posting with captions & hashtags  
-- 🎮 *Game Launchers* – Custom launchers to manage and update games easily  
-- 🌱 *Greenhouse Simulation & Automation* – Plant growth, irrigation, and climate control system  
-- 🖥 *Windows Forms Applications* – Multiple desktop tools for various use cases  
-- 📡 *Arduino Projects* – Sensor integration & automation systems  
+- 📈 *Instagram Growth Strategy* – Increased engagement rate of a fashion brand by **120% in 30 days**  
+- 🎬 *Reels Video Series* – Produced 10 short-form videos that tripled view counts for a lifestyle brand  
+- 👥 *LinkedIn B2B Strategy* – Boosted monthly reach by **85%** for a professional services firm  
+- 📊 *Ad Campaign Management* – Designed and optimized Meta Ads for e-commerce growth  
+- 🎨 *Content Calendar & Visual Design* – Built structured content plans with eye-catching graphics  
 
 ---
 
 ## 📊 GitHub Stats
-![Furkan's Github stats](https://github-readme-stats.vercel.app/api?username=FurkanGulsen-Dev&show_icons=true&theme=radical)
+![Seher's Github stats](https://github-readme-stats.vercel.app/api?username=SeherDuzlu&show_icons=true&theme=radical)
