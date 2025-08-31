@@ -1,10 +1,10 @@
 # Hello there, I'm Furkan Gülşen 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seher-duzlu-b97439211/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/furkan.gulsen.01/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@furkan.gulsen?lang=tr-TR)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seherduzluu/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@afaroz00?_t=ZS-8zLVd76lHIV&_r=1)
 [![Bionluk](https://img.shields.io/badge/Bionluk-FF6600?style=for-the-badge&logo=freelancer&logoColor=white)](https://bionluk.com/seherduzlu)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FurkanG%C3%BCl%C5%9FenCodes)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sdanismanlik01)
 
 ---
 
